@@ -15,7 +15,7 @@ This ia a simple Java console application that find horoscope with birthday and 
 ## Algorithm
 ```bash 
 
-if (birthMonth==1) {
+        if (birthMonth==1) {
             if (birthDay<=21)
                 System.out.println("Oğlak Burcu");
             else
